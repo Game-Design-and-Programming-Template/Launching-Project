@@ -1,5 +1,7 @@
 ## Final Poject Options:
 
+Choose one of the options below - or suggest a new one - then in your
+
 ### 1: Fixing bugs in one of the PlaygroundPojectStarter example games.
 
 ### 2: Modifying one of the games in the PlaygroundPojectStarter examples.
