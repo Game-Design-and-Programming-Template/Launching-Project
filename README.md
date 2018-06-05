@@ -1,6 +1,7 @@
 ## Final Project Options:
 
-Choose one of the options below - or suggest a new one:
+Choose one of the options below - or suggest a new one.
+If you need a refresher on working with Git and GitHub [look here](https://cs-templates.github.io/Git-Quick-Reference/).
 
 ### 1: Fixing bugs in one of the PlaygroundProjectStarter example games.
 
